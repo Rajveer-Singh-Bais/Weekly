@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FactorsProgram {
+public class W7Q4 {
     public static int[] getFactors(int num) {
         int count = 0;
 
