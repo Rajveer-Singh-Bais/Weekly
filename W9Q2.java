@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SubstringCompare {
+public class W9Q2 {
 
     static String createSubstring(String str, int start, int end) {
         String result = "";
